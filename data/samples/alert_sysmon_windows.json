@@ -1,0 +1,8 @@
+{
+  "host": "host-001",
+  "alert": "Suspicious WMI execution",
+  "event_data": {
+    "ParentImage": "wmiprvse.exe",
+    "CommandLine": "wmic process call create"
+  }
+}

@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+chromadb
+stix2
+pandas
+jinja2
+pdfkit
+streamlit
+python-dotenv
+networkx
+openai  # for fallback embedding/testing

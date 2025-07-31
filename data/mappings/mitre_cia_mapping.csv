@@ -1,0 +1,3 @@
+technique_id,technique_name,confidentiality,integrity,availability,severity
+T1059.001,PowerShell,1,1,0,Critical
+T1003.001,LSASS Dumping,1,1,0,High
