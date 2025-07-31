@@ -1,0 +1,17 @@
+{
+  "case": "Simulated APT",
+  "sequence": [
+    {
+      "event": "Initial Access via Phishing",
+      "log": "suspicious email with .docm attachment"
+    },
+    {
+      "event": "Execution via PowerShell",
+      "log": "powershell.exe -nop -w hidden ..."
+    },
+    {
+      "event": "Credential Dump",
+      "log": "accessed lsass.exe memory"
+    }
+  ]
+}
