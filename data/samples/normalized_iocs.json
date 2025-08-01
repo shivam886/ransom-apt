@@ -1,0 +1,1752 @@
+[
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "d77bee3ac8b5e9120dc89ec922b40440e39ecb26428e662c533c58a901506a20.sample",
+    "source": "uploaded_csv",
+    "date": "12/06/2019 22:34",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "bb4d326e5f6fc24fc9359c255f77b543f74838799a07f5774bed70e3e878d60b.sample",
+    "source": "uploaded_csv",
+    "date": "12/06/2019 22:34",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "winnti",
+    "name": "7cd17fc948eb5fa398b8554fea036bdb3c0045880e03acbe532f4082c271e3c5.bin",
+    "source": "uploaded_csv",
+    "date": "08/07/2019 17:00",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "04/26/2019 17:30",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "PatchWrapPS",
+    "source": "uploaded_csv",
+    "date": "03/28/2019 03:13",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "winnti",
+    "name": "PatchWrapPS",
+    "source": "uploaded_csv",
+    "date": "03/28/2019 02:36",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "PatchWrapPS",
+    "source": "uploaded_csv",
+    "date": "03/27/2019 08:10",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "ma_lockdown_service.dll",
+    "source": "uploaded_csv",
+    "date": "03/27/2019 07:49",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "TSMSISrv.DLL",
+    "source": "uploaded_csv",
+    "date": "02/12/2019 06:43",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "TSMSISrv.DLL",
+    "source": "uploaded_csv",
+    "date": "02/12/2019 06:37",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "razy",
+    "name": "TSMSISrv.DLL",
+    "source": "uploaded_csv",
+    "date": "02/12/2019 05:04",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "F64.data",
+    "source": "uploaded_csv",
+    "date": "01/15/2019 16:32",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "C64.exe",
+    "source": "uploaded_csv",
+    "date": "01/10/2019 05:38",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "",
+    "name": "mtlserver",
+    "source": "uploaded_csv",
+    "date": "12/04/2018 01:32",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "razy",
+    "name": "TSMSISrv.DLL",
+    "source": "uploaded_csv",
+    "date": "11/28/2018 10:10",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "11/27/2018 11:52",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "TSMSISrv.DLL",
+    "source": "uploaded_csv",
+    "date": "11/23/2018 09:32",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "razy",
+    "name": "TSMSISrv.DLL",
+    "source": "uploaded_csv",
+    "date": "11/22/2018 14:52",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "racsvc.dll.mui",
+    "source": "uploaded_csv",
+    "date": "11/22/2018 13:55",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "web1.exe",
+    "source": "uploaded_csv",
+    "date": "10/20/2017 18:19",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "300519fa1af5c36371ab438405eb641f184bd2f491bdf24f04e5ca9b86d1b39c.exe",
+    "source": "uploaded_csv",
+    "date": "08/15/2017 12:07",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "config.exe",
+    "source": "uploaded_csv",
+    "date": "08/14/2017 18:07",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "",
+    "name": "nssock",
+    "source": "uploaded_csv",
+    "date": "07/18/2017 03:59",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "text",
+    "value": "",
+    "family": "",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "09/28/2016 09:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "09/13/2016 14:02",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "BARLAIY-70c03ce5c80aca2d35a5555b0532eedede24d4cc6bdb32a2c8f7e630bba5f26e",
+    "source": "uploaded_csv",
+    "date": "08/21/2016 20:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "7zip",
+    "value": "",
+    "family": "Zxshell",
+    "name": "=?utf-8?B?5Lit5p2x5ZG85ZC45Zmo55eH5YCZ576kKE1FUlMp44Gu5LqI6ZiyLjd6?=",
+    "source": "uploaded_csv",
+    "date": "06/19/2015 07:22",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "winnti",
+    "name": "C:\\Analysis_Baddies_Dirty\\InterMune\\Winnti Samples\\f8c89ccd8937f2b760e6706738210744.f3c222606f890573e6128fbeb389f37bd6f6bda3.primary_analysis_subject",
+    "source": "uploaded_csv",
+    "date": "12/01/2014 17:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "winnti",
+    "name": "7566558469ede04efc665212b45786a730055770f6ea8f924d8c1e324cae8691.vir",
+    "source": "uploaded_csv",
+    "date": "05/17/2012 09:51",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "63e8ed9692810d562adb80f27bb1aeaf48849e468bf5fd157bc83ca83139b6d7.bin",
+    "source": "uploaded_csv",
+    "date": "04/23/2012 10:42",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "winnti",
+    "name": "490c3e4af829e85751a44d21b25de1781cfe4961afdef6bb5759d9451f530994.bin",
+    "source": "uploaded_csv",
+    "date": "04/16/2012 06:22",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "winnti",
+    "name": "79190925bd1c3fae65b0d11db40ac8e61fb9326ccfed9b7e09084b891089602d.bin",
+    "source": "uploaded_csv",
+    "date": "03/23/2012 06:20",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "05/22/2020 18:08",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "",
+    "name": "56544329",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 21:48",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "./KISA_dataset_2020_train/d854f775ab1071eebadc0eb44d8571c387567c233a71d2e26242cd9a80e67309.vir",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 15:02",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "./KISA_dataset_2020_train/f91f2a7e1944734371562f18b066f193605e07223aab90bd1e8925e23bbeaa1c.vir",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 13:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "",
+    "name": "de9ef08a148305963accb8a64eb22117916aa42ab0eddf60ccb8850468a194fc.bin",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 12:39",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "Omni",
+    "name": "bsd2",
+    "source": "uploaded_csv",
+    "date": "02/03/2020 18:14",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "Omni",
+    "name": "bsd",
+    "source": "uploaded_csv",
+    "date": "02/03/2020 18:13",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "",
+    "name": "autoipv6",
+    "source": "uploaded_csv",
+    "date": "08/19/2019 01:57",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "android",
+    "value": "",
+    "family": "",
+    "name": "GPS_TEST.apk",
+    "source": "uploaded_csv",
+    "date": "02/28/2019 08:37",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "lancer.exe",
+    "source": "uploaded_csv",
+    "date": "10/15/2018 12:24",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "OnLineTestBox.exe",
+    "source": "uploaded_csv",
+    "date": "10/12/2018 03:10",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf object file",
+    "value": "",
+    "family": "",
+    "name": "d29254ab907c9ef54349de3ec0dd8b22b4692c58ed7a7b340afbc6e44363f96a.bin",
+    "source": "uploaded_csv",
+    "date": "03/21/2018 07:52",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "Tsunami",
+    "name": "08f29e234f0ce3bded1771d702f8b5963b144141727e48b8a0594f58317aac75.bin",
+    "source": "uploaded_csv",
+    "date": "02/23/2018 10:02",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "Omni",
+    "name": "python26",
+    "source": "uploaded_csv",
+    "date": "12/23/2017 01:17",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "android",
+    "value": "",
+    "family": "androidos",
+    "name": "64424a7c5f0d8e1c5d64c4c6fa9bdc2987dbdcf1bafdb6f45df9e783712c5187.bin",
+    "source": "uploaded_csv",
+    "date": "05/20/2016 17:29",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "",
+    "name": "dhcp.xxx",
+    "source": "uploaded_csv",
+    "date": "12/10/2015 17:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf object file",
+    "value": "",
+    "family": "",
+    "name": "ipmi_devintf.ko",
+    "source": "uploaded_csv",
+    "date": "07/27/2015 09:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "",
+    "name": "iusb3mon.dll",
+    "source": "uploaded_csv",
+    "date": "06/02/2021 16:50",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "CobaltStrike",
+    "name": "4521bd40fcbbfd963bf6f4aa7690b20d3133a6e642937e326876e7ba408e6298.bin.sample",
+    "source": "uploaded_csv",
+    "date": "05/25/2021 15:56",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Tiggre",
+    "name": "SEService.dll",
+    "source": "uploaded_csv",
+    "date": "05/15/2021 07:04",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf executable",
+    "value": "",
+    "family": "",
+    "name": "libxselinux",
+    "source": "uploaded_csv",
+    "date": "04/12/2021 02:45",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "elf shared library",
+    "value": "",
+    "family": "winnti",
+    "name": "libxselinux.so",
+    "source": "uploaded_csv",
+    "date": "04/12/2021 02:45",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "StoreSvc.dll",
+    "source": "uploaded_csv",
+    "date": "03/26/2021 13:09",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "rozena",
+    "name": "%PUBLIC%\\notepad.exe",
+    "source": "uploaded_csv",
+    "date": "02/01/2021 13:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Wacatac",
+    "name": "filedata",
+    "source": "uploaded_csv",
+    "date": "01/21/2021 05:50",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "",
+    "name": "dttcodexgigas.69b961af528eac458942dc1787f32dc432a328d9",
+    "source": "uploaded_csv",
+    "date": "01/18/2021 21:35",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "UXLibRes.dll",
+    "source": "uploaded_csv",
+    "date": "12/09/2020 04:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "tiggre",
+    "name": "UXLibRes.dll",
+    "source": "uploaded_csv",
+    "date": "11/23/2020 11:29",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "",
+    "name": "beaa2c8dcf9fbf70358a8cf71b2acee95146dba79ba37943a939a2145b83b32e.bin",
+    "source": "uploaded_csv",
+    "date": "10/21/2020 13:25",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "36fe1e0db5e74ed3e6adc039720c54d6.virus",
+    "source": "uploaded_csv",
+    "date": "09/20/2020 04:37",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "normnfw.nls",
+    "source": "uploaded_csv",
+    "date": "09/09/2020 08:03",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "0187d3fae2dfc1629e766d5df38bdabf5effcb4746befceb1aaf283e9fe063a1.bin",
+    "source": "uploaded_csv",
+    "date": "09/08/2020 12:44",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "abac7a72b425ff38f8a7d8b66178da519525dc2137ca8904b42301fb46a8983e.bin",
+    "source": "uploaded_csv",
+    "date": "09/03/2020 17:48",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "34aeaa89aab983318ed8f6da32556faf3057a92dc045fac1f960f3aaad3a1ba1.bin",
+    "source": "uploaded_csv",
+    "date": "09/03/2020 17:48",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "wmdtks.dll",
+    "source": "uploaded_csv",
+    "date": "09/01/2020 09:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "html",
+    "value": "",
+    "family": "winnti",
+    "name": "3c6d304c050607a9b945b9c7e80805fc5d54ced16f3d27aaa42fce6434c92472.bin",
+    "source": "uploaded_csv",
+    "date": "08/28/2020 06:27",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "pdf",
+    "value": "",
+    "family": "",
+    "name": "b6685eb069bdfeec54c9ac349b6f26fb8ecf7a27f8dfd8fcdb09983c94aed869.bin",
+    "source": "uploaded_csv",
+    "date": "08/28/2020 06:27",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "fad80dc36a59d1cc67f3c4f5deb2650ca7f5abac43858bf38b46f60d6bb4b196.sample",
+    "source": "uploaded_csv",
+    "date": "08/23/2020 12:52",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "e886caba3fea000a7de8948c4de0f9b5857f0baef6cf905a2c53641dbbc0277c.bin",
+    "source": "uploaded_csv",
+    "date": "08/20/2020 08:29",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "f36a0b99973a837d5e4d542edd739df7cac10e207be538d47a106c4edf7cff54.bin",
+    "source": "uploaded_csv",
+    "date": "08/12/2020 12:28",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Razy",
+    "name": "0046df35f66a3b076d9206412be2f1f7ea4641d96574e7b58578c0c0995d1feb.bin",
+    "source": "uploaded_csv",
+    "date": "08/12/2020 08:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "COVID-19.pdf()________.exe",
+    "source": "uploaded_csv",
+    "date": "07/21/2020 11:04",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "C:\\Users\\Keyboard007\\Desktop\\CBRLR\\WF-MAIL1\\SAMPLE\\3d38dfd588fc98de099201fe9f52feb29bb401fc623d6fe03eb8f0c959ffc731",
+    "source": "uploaded_csv",
+    "date": "07/16/2020 05:45",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "6a10027dd99f124cd9d2682b6e7b0841d070607ea22a446f3c40c0b9f9725bed.bin",
+    "source": "uploaded_csv",
+    "date": "07/15/2020 07:15",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "dttcodexgigas.1d3dc9bb7acfe8416ac5ab51f24b6648b91eb305",
+    "source": "uploaded_csv",
+    "date": "07/15/2020 07:08",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "CobaltStrike",
+    "name": "(COVID-19) pandemic -reg.pdf - Copy.exe",
+    "source": "uploaded_csv",
+    "date": "07/15/2020 03:13",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "CobaltStrike",
+    "name": "(COVID-19) pandemic -reg.pdf.exe",
+    "source": "uploaded_csv",
+    "date": "07/15/2020 02:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "0d6a5183b903b1013367b9a319f21a7a3b7798d9565a0deee52951f62a708227.bin",
+    "source": "uploaded_csv",
+    "date": "07/15/2020 02:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "AgentTesla",
+    "name": "06210a1f9bc48128e050df0884f9759e4d202bd103aa78e6b6eb3cec1a58cdb5.bin",
+    "source": "uploaded_csv",
+    "date": "07/15/2020 02:36",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "8f0538a18c944e2a98f1415d5528a0dab4367cd8689f598ab2da266c36403252.bin",
+    "source": "uploaded_csv",
+    "date": "07/14/2020 08:29",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "6867f3d853de5dfe8adbd761576c29ad853611d8d1c7fdd15b07125fd05321f8.bin",
+    "source": "uploaded_csv",
+    "date": "07/10/2020 07:04",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Graftor",
+    "name": "8308e54055b45eb63dc6c4c6a4112310a45dec041c1be7deb55bec548617136f.sample",
+    "source": "uploaded_csv",
+    "date": "07/10/2020 06:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "43fe07f9adeb32b20e21048e9bb41d01e6b3559d98088ac8cd8ab0fad766b885.bin",
+    "source": "uploaded_csv",
+    "date": "07/10/2020 06:05",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Graftor",
+    "name": "\\Users\\Petra\\AppData\\Local\\Temp\\RarSFX0\\System.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 11:38",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "%TEMP%\\RarSFX0\\Detectmalware.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 11:14",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "\\Users\\Petra\\AppData\\Local\\Temp\\RarSFX0\\mstsc.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 09:45",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Graftor",
+    "name": "/DetectMalware.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 08:11",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Graftor",
+    "name": "COVID-19-2020-07.pdf.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 07:50",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "Detect malware.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 07:33",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Graftor",
+    "name": "situation-no184-060810120000.pdf.exe",
+    "source": "uploaded_csv",
+    "date": "07/09/2020 06:08",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "pdf",
+    "value": "",
+    "family": "",
+    "name": "02f5cb58a57d807c365edf8df5635263f428b099a38dff7fe7f4436b84efbe71.bin",
+    "source": "uploaded_csv",
+    "date": "07/07/2020 15:25",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "chm",
+    "value": "",
+    "family": "",
+    "name": "c:\\users\\admini~1\\appdata\\local\\temp\\cv.chm",
+    "source": "uploaded_csv",
+    "date": "07/07/2020 04:15",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "",
+    "name": "C:\\ProgramData\\go.vbs",
+    "source": "uploaded_csv",
+    "date": "07/07/2020 03:41",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Dapato",
+    "name": "03b7b511716c074e9f6ef37318638337fd7449897be999505d4a3219572829b4.bin",
+    "source": "uploaded_csv",
+    "date": "07/06/2020 07:43",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Vigorf",
+    "name": "BDReinit",
+    "source": "uploaded_csv",
+    "date": "07/06/2020 03:37",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "chrome_watch.dll",
+    "source": "uploaded_csv",
+    "date": "07/04/2020 10:22",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "rar",
+    "value": "",
+    "family": "",
+    "name": "Resume.rar",
+    "source": "uploaded_csv",
+    "date": "06/26/2020 17:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "%PUBLIC%\\resume.exe",
+    "source": "uploaded_csv",
+    "date": "06/25/2020 18:49",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "winnti",
+    "name": "3c8049bd7d2c285acc0685d55b73e4339d4d0a755acffad697d5a6806d95bb28.bin",
+    "source": "uploaded_csv",
+    "date": "06/25/2020 18:49",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "c:\\users\\admini~1\\appdata\\local\\temp\\regdon.exe",
+    "source": "uploaded_csv",
+    "date": "06/23/2020 11:30",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "62d6fb0f33d0411ea6abd3167118a0e1.virus",
+    "source": "uploaded_csv",
+    "date": "06/23/2020 08:26",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "zip",
+    "value": "",
+    "family": "",
+    "name": "regdon.zip",
+    "source": "uploaded_csv",
+    "date": "06/23/2020 07:42",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "06/22/2020 16:39",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "8c962ddbb515e73ecfc5df9db35a54c8c9d15713a04425298f2d89308e2a47bf.bin",
+    "source": "uploaded_csv",
+    "date": "06/22/2020 14:04",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Vigorf",
+    "name": "faca607b43551044fda3c799ce7e9ce61004100544eeb196734972303f57f2ae.bin",
+    "source": "uploaded_csv",
+    "date": "06/18/2020 07:46",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Vigorf",
+    "name": "D:\\Work\\1\\6d967f275beb3855980a80d60ef8023c",
+    "source": "uploaded_csv",
+    "date": "06/18/2020 04:26",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Vigorf",
+    "name": "oci.dll",
+    "source": "uploaded_csv",
+    "date": "06/18/2020 02:32",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "06/16/2020 00:28",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "njRAT",
+    "name": "x32.exe",
+    "source": "uploaded_csv",
+    "date": "06/15/2020 06:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "420dc77afe28003f14dfe6c09fbf8194ead8a6e8222b6ab126e7ee9bf4b63fd4.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 06:45",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "0ad8ee3fe6d45626b28c0051c4c4f83358a03096ad06fc7135621293e95c75ae.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 03:20",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Vigorf",
+    "name": "G:\\2020\\samples\\samples\\exe32\\f\\virussign.com_fbfeecea5a8c752c9bffdf6b9f7fcf50.vir",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 02:35",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "k.exe",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 02:16",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Vigorf",
+    "name": "325430384d642ab2a902fb0e268e85808b6cbf87506ccdc314e116e7d1b8239e.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 02:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Vigorf",
+    "name": "e:\\9\\virussign.com_914151fa49be06ab570bb0db77ce6960.vir",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 02:01",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "012d8d787c6e7a5f3dbe1e9cce7c5da166537a819221e210ef4d108f1a0a24b3.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 01:52",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "75d573d1e788590195012a1965cfcaa911c566aee88331b7718ddc638028c175.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 01:31",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "fb23c7fc2e5e8ae33942734c453961da9ed4659368d19180a8f1ecb3b9b8e853.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 01:29",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "f54cf6d9a5d77a89c4a2d47b02736d746764319e02ad224019db8de78842334a.bin",
+    "source": "uploaded_csv",
+    "date": "06/12/2020 01:24",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "5841a4302fcbd63f66fc2afd41f8671744454aaa7e1ed834e935bfdb007a9a83.bin",
+    "source": "uploaded_csv",
+    "date": "06/11/2020 10:44",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "\u8eab\u4efd\u8b49\u660e\u6587\u4ef6.jpg.scr",
+    "source": "uploaded_csv",
+    "date": "06/11/2020 10:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "AppleVersions.dll",
+    "source": "uploaded_csv",
+    "date": "06/09/2020 06:09",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "cab",
+    "value": "",
+    "family": "Razy",
+    "name": "TS.zip",
+    "source": "uploaded_csv",
+    "date": "06/09/2020 02:36",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "CVE-2017-11882",
+    "name": "0deb252a5048c3371358618750813e947458c77e651c729b9d51363f3d16b583.bin",
+    "source": "uploaded_csv",
+    "date": "06/08/2020 14:53",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "e398290469966aff01a9e138d45c4655790d7a641950e675785d0a2ab93e7d28.bin",
+    "source": "uploaded_csv",
+    "date": "06/02/2020 16:19",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "7zip",
+    "value": "",
+    "family": "cometer",
+    "name": "\u0437\u0430\u043f\u0438\u0441\u044c \u0447\u0430\u0442\u0430.7z",
+    "source": "uploaded_csv",
+    "date": "06/02/2020 12:13",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Shelma",
+    "name": "Exclusive shooting information.avi.exe",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 20:03",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "Dedicated video player.exe",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 20:03",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "c:\\users\\admini~1\\appdata\\local\\temp\\employee information.docx.exe",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 20:01",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "a4b2a737badef32831cbf05bfaa65b5121ddb41463177f4ac0dbc354b3b451d4.bin",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 18:58",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "Electronic Album Reader.exe",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 18:45",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "\u0417\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435.pdf",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 18:44",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "rar",
+    "value": "",
+    "family": "",
+    "name": "fc5c9c93781fbbac25d185ec8f920170503ec1eddfc623d2285a05d05d5552dc.bin",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 16:24",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "rar",
+    "value": "",
+    "family": "",
+    "name": "Complaint.rar",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 16:23",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "Shelma",
+    "name": "\u041c\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435.pdf.exe",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 15:31",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "rar",
+    "value": "",
+    "family": "cometer",
+    "name": "electronic_resume.pdf.rar",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 15:15",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "msmpeg2srcsnk.dll",
+    "source": "uploaded_csv",
+    "date": "06/01/2020 08:02",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "",
+    "name": "4733d1204b06dc95178e83834af61934a423534e1d4edd402b37e226f0f2727f.bin",
+    "source": "uploaded_csv",
+    "date": "05/29/2020 08:30",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "CVE-2017-11882",
+    "name": "dca8fcb7879cf4718de0ee61a88425fca9dfa9883be187bae3534076f835a54d.bin",
+    "source": "uploaded_csv",
+    "date": "05/29/2020 08:29",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "cab",
+    "value": "",
+    "family": "",
+    "name": "1.txt",
+    "source": "uploaded_csv",
+    "date": "05/29/2020 08:19",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "SEService.dll",
+    "source": "uploaded_csv",
+    "date": "05/22/2020 17:57",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "wbemcomna.dll",
+    "source": "uploaded_csv",
+    "date": "05/19/2020 17:11",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\officeupdate.exe",
+    "source": "uploaded_csv",
+    "date": "05/13/2020 02:49",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "unknown",
+    "value": "",
+    "family": "winnti",
+    "name": "8e6945ae06dd849b9db0c2983bca82de1dddbf79afb371aa88da71c19c44c996.bin",
+    "source": "uploaded_csv",
+    "date": "05/13/2020 02:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "CobaltStrike",
+    "name": "chikeme.exe",
+    "source": "uploaded_csv",
+    "date": "05/09/2020 03:07",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "occamy",
+    "name": "4a89eb933fa87d85542488df6ae20d82.virus",
+    "source": "uploaded_csv",
+    "date": "05/04/2020 12:31",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "chrome_watch.dll",
+    "source": "uploaded_csv",
+    "date": "04/28/2020 09:02",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "PlugX",
+    "name": "C:\\Users\\user\\AppData\\Local\\Temp\\a.bat",
+    "source": "uploaded_csv",
+    "date": "04/23/2020 17:46",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "krypyik",
+    "name": "shellcode.exe",
+    "source": "uploaded_csv",
+    "date": "04/21/2020 21:31",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "Tiggre",
+    "name": "bb6b9a60c3b4062669bac3608ca7b0c1.virus",
+    "source": "uploaded_csv",
+    "date": "04/21/2020 20:35",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "PlugX",
+    "name": "94ea23e7f53cb9111dd61fe1a1cbb79b8bbabd2d37ed6bfa67ba2a437cfd5e92.bin",
+    "source": "uploaded_csv",
+    "date": "04/21/2020 17:58",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "Ursu",
+    "name": "storesyncsvc.dll",
+    "source": "uploaded_csv",
+    "date": "04/20/2020 05:15",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "krypyik",
+    "name": "b447a7bb633f682058d4b9df5caabbe8c794f087b80bf598d6741a255e925078.bin",
+    "source": "uploaded_csv",
+    "date": "04/06/2020 20:26",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "occamy",
+    "name": "svchost.exe",
+    "source": "uploaded_csv",
+    "date": "04/06/2020 20:04",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "C:\\Users\\Keyboard007\\Desktop\\CBRLR\\WF-MAIL1\\SAMPLE\\283302c43466bdc6524a1e58a0ff9cc223ab8f540a1b0248d1fcffe81b87d5d6",
+    "source": "uploaded_csv",
+    "date": "04/03/2020 17:40",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "Zbot",
+    "name": "localnetsvc.dll",
+    "source": "uploaded_csv",
+    "date": "03/16/2020 18:06",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "Zbot",
+    "name": "localreadinesssvc.dll",
+    "source": "uploaded_csv",
+    "date": "03/16/2020 18:05",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "occamy",
+    "name": "e935699b31707ecf9e006940f31f09514688cb45e078a66724603ee7fadf84db.bin",
+    "source": "uploaded_csv",
+    "date": "03/15/2020 17:12",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 dll",
+    "value": "",
+    "family": "",
+    "name": "csc.exe",
+    "source": "uploaded_csv",
+    "date": "03/14/2020 00:35",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "PlugX",
+    "name": "./KISA_dataset_2020_train/ccdb8e0162796efe19128c0bac78478fd1ff2dc3382aed0c19b0f4bd99a31efc.vir",
+    "source": "uploaded_csv",
+    "date": "03/13/2020 21:46",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "Kryptik",
+    "name": "7ed5cbeb6c732aa492762381033ff06d0c29f1c731530d4d27704822141a074a.bin",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 21:54",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "svchosl.exe",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 14:39",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "krypyik",
+    "name": "a7df8143a36638de40233b141919d767678b45bf5467e948a637eaafb2820550.bin",
+    "source": "uploaded_csv",
+    "date": "03/09/2020 07:42",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "Ursu",
+    "name": "c:\\windows\\system32\\66ov7j3j4.dll",
+    "source": "uploaded_csv",
+    "date": "03/04/2020 13:08",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "4665280d4b34c5388edeb51a6d5e808d2942c364017a42d3f1fac186b21eb571.bin",
+    "source": "uploaded_csv",
+    "date": "02/24/2020 13:25",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "d0686f44fb7e77ce0f68cc91c4cef12dbd691bb99b0b7be77103b7b17eec3753.bin",
+    "source": "uploaded_csv",
+    "date": "02/24/2020 05:38",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "winnti",
+    "name": "e7f5a30d4bf7915cc97374e0f6a29573d4640961166b5c9b942030e8c10949d8.bin",
+    "source": "uploaded_csv",
+    "date": "02/23/2020 21:05",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "",
+    "name": "8fb8134bf40ad6bddd60ea77b78c30dab72c736bf29172f89d03505b80c3ae8d.bin",
+    "source": "uploaded_csv",
+    "date": "02/23/2020 21:05",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 exe",
+    "value": "",
+    "family": "",
+    "name": "9bf32bf4a4bc1d13bddaa6402595ad76d2d9fcc91a988313f13ed990ccb1c4c1.bin",
+    "source": "uploaded_csv",
+    "date": "12/22/2019 16:22",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "d:\\virus\\2020\\VirusShare_c8f1aff87d12e0e5c7082b8a565c4abb",
+    "source": "uploaded_csv",
+    "date": "11/15/2019 13:41",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win64 dll",
+    "value": "",
+    "family": "",
+    "name": "oci.dll",
+    "source": "uploaded_csv",
+    "date": "08/15/2019 10:47",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "win32 exe",
+    "value": "",
+    "family": "cometer",
+    "name": "",
+    "source": "uploaded_csv",
+    "date": "12/06/2018 06:20",
+    "normalized": true,
+    "valid": false
+  },
+  {
+    "type": "txt",
+    "value": "",
+    "family": "",
+    "name": "C:\\Users<user>\\AppData\\Local\\Temp\\1.vbs",
+    "source": "uploaded_csv",
+    "date": "01/11/2017 07:50",
+    "normalized": true,
+    "valid": false
+  }
+]
