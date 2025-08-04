@@ -23,123 +23,120 @@ import re
 import argparse
 from pathlib import Path
 
+# IOC Type Detection Regexes
+IOC_PATTERNS = {
+    "md5": re.compile(r"^[a-f0-9]{32}$", re.IGNORECASE),
+    "sha1": re.compile(r"^[a-f0-9]{40}$", re.IGNORECASE),
+    "sha256": re.compile(r"^[a-f0-9]{64}$", re.IGNORECASE),
+    "ip": re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$"),
+    "domain": re.compile(r"(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}"),
+    "url": re.compile(r"^https?://[^\s]+$")
+}
 
-# === IOC Type Detection ===
 def detect_ioc_type(value):
-    value = value.strip().lower()
-    if re.fullmatch(r"(?:[0-9]{1,3}\.){3}[0-9]{1,3}", value):
-        return "ip"
-    elif re.fullmatch(r"[a-f0-9]{32}", value):
-        return "md5"
-    elif re.fullmatch(r"[a-f0-9]{40}", value):
-        return "sha1"
-    elif re.fullmatch(r"[a-f0-9]{64}", value):
-        return "sha256"
-    elif re.fullmatch(r"(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}", value):
-        return "domain"
-    elif value.startswith("http"):
-        return "url"
-    else:
-        return "unknown"
+    value = str(value).strip()
+    for ioc_type, pattern in IOC_PATTERNS.items():
+        if pattern.fullmatch(value):
+            return ioc_type
+    return "unknown"
 
-# === Normalize IOC ===
 def normalize_ioc(value, source):
     if isinstance(value, list):
-        value = ",".join(map(str, value))  # Flatten list into comma-separated string
+        value = ",".join(map(str, value))
     elif not isinstance(value, str):
         value = str(value)
-        
+
+    value = value.strip()
     return {
-        "value": value.strip(),
+        "value": value,
         "type": detect_ioc_type(value),
-        "source": source,
-        "valid": bool(value.strip()),
+        "source": source
     }
 
-# === Deduplication Based on IOC Value + Type ===
-def deduplicate_iocs(iocs):
+def deduplicate_iocs(ioc_list):
     seen = set()
     unique = []
-    for ioc in iocs:
+    for ioc in ioc_list:
         key = (ioc["value"], ioc["type"])
-        if key not in seen:
+        if key not in seen and ioc["type"] != "unknown":
             seen.add(key)
             unique.append(ioc)
     return unique
 
-# === Parsers ===
-def ingest_csv(file_path):
+# --- Parsers ---
+def parse_csv(file_path):
     iocs = []
-    with open(file_path, newline='', encoding='utf-8', errors='replace') as f:
+    with open(file_path, encoding="utf-8", errors="replace") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            for key, val in row.items():
+            for val in row.values():
                 if val:
                     ioc = normalize_ioc(val, source=file_path.name)
-                    if ioc:
+                    if ioc["type"] != "unknown":
                         iocs.append(ioc)
     return iocs
 
-def ingest_txt(file_path):
+def parse_txt(file_path):
     iocs = []
-    with open(file_path, encoding='utf-8', errors='replace') as f:
+    with open(file_path, encoding="utf-8", errors="replace") as f:
         for line in f:
-            val = line.strip()
-            if val:
-                iocs.append(normalize_ioc(val, source=file_path.name))
+            line = line.strip()
+            if line:
+                ioc = normalize_ioc(line, source=file_path.name)
+                if ioc["type"] != "unknown":
+                    iocs.append(ioc)
     return iocs
 
-def ingest_json(file_path):
+def parse_json(file_path):
     iocs = []
-    with open(file_path, encoding='utf-8', errors='replace') as f:
-        content = json.load(f)
-        if isinstance(content, list):
-            for item in content:
+    with open(file_path, encoding="utf-8", errors="replace") as f:
+        data = json.load(f)
+        if isinstance(data, list):
+            for item in data:
                 if isinstance(item, dict):
                     for val in item.values():
-                        if isinstance(val, str):
-                            iocs.append(normalize_ioc(val, source=file_path.name))
+                        ioc = normalize_ioc(val, source=file_path.name)
+                        if ioc["type"] != "unknown":
+                            iocs.append(ioc)
                 elif isinstance(item, str):
-                    iocs.append(normalize_ioc(item, source=file_path.name))
+                    ioc = normalize_ioc(item, source=file_path.name)
+                    if ioc["type"] != "unknown":
+                        iocs.append(ioc)
     return iocs
 
-# === Master Loader ===
-def ingest_all_ioc_files(folder):
-    iocs = []
-    for file_path in Path(folder).glob("*"):
-        if file_path.suffix == ".csv":
-            iocs.extend(ingest_csv(file_path))
-        elif file_path.suffix == ".json":
-            iocs.extend(ingest_json(file_path))
-        elif file_path.suffix == ".txt":
-            iocs.extend(ingest_txt(file_path))
+# --- Master Ingestor ---
+def ingest_iocs_from_folder(folder_path):
+    all_iocs = []
+    folder = Path(folder_path)
+    for file in folder.glob("*"):
+        if file.suffix == ".csv":
+            all_iocs.extend(parse_csv(file))
+        elif file.suffix == ".txt":
+            all_iocs.extend(parse_txt(file))
+        elif file.suffix == ".json":
+            all_iocs.extend(parse_json(file))
         else:
-            print(f"⚠️ Skipping unsupported file: {file_path.name}")
-    return iocs
+            print(f"⚠️ Skipping unsupported: {file.name}")
+    return deduplicate_iocs(all_iocs)
 
-# === Save Output ===
+# --- Save to JSON ---
 def save_iocs(iocs, output_path):
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(iocs, f, indent=2)
-    print(f"✅ Saved {len(iocs)} unique IOCs to {output_path}")
+    print(f"✅ Saved {len(iocs)} unique IOCs to: {output_path}")
 
-# === CLI Entry ===
+# --- CLI ---
 def main():
-    parser = argparse.ArgumentParser(description="Dynamic IOC Ingestor with Deduplication")
-    parser.add_argument("--folder", required=True, help="Path to IOC input folder")
+    parser = argparse.ArgumentParser(description="Multi-Format IOC Ingestor")
+    parser.add_argument("--folder", required=True, help="Folder with IOC files")
     parser.add_argument("--output", required=True, help="Path to output JSON file")
     args = parser.parse_args()
 
-    print(f"🔍 Scanning folder: {args.folder}")
-    all_iocs = ingest_all_ioc_files(args.folder)
-    print(f"🧱 Total IOCs collected: {len(all_iocs)}")
-
-    unique_iocs = deduplicate_iocs(all_iocs)
-    print(f"✅ Unique after deduplication: {len(unique_iocs)}")
-
-    save_iocs(unique_iocs, args.output)
+    print(f"🔍 Scanning: {args.folder}")
+    iocs = ingest_iocs_from_folder(args.folder)
+    print(f"✅ Found {len(iocs)} IOCs after deduplication.")
+    save_iocs(iocs, args.output)
 
 if __name__ == "__main__":
     main()
-
