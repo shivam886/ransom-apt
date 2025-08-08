@@ -1,0 +1,7394 @@
+[
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp607982",
+    "user.name": "Comp607982$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1418",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ac",
+    "assets": {
+      "user": [
+        "Comp607982$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp607982"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp991643",
+    "user.name": "Comp991643$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xc0c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x334",
+    "assets": {
+      "user": [
+        "Comp991643$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp991643"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp736087",
+    "user.name": "Comp736087$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x2074",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e8",
+    "assets": {
+      "user": [
+        "Comp736087$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp736087"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp093128",
+    "user.name": "Comp093128$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x2200",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d4",
+    "assets": {
+      "user": [
+        "Comp093128$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp093128"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp006850",
+    "user.name": "Comp006850$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x498",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x278",
+    "assets": {
+      "user": [
+        "Comp006850$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp006850"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp828729",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x29c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp828729"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp828729",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp828729"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp423597",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp423597"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp466209",
+    "user.name": "Comp466209$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x2d20",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x354",
+    "assets": {
+      "user": [
+        "Comp466209$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp466209"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp688526",
+    "user.name": "Comp688526$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1ac0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b8",
+    "assets": {
+      "user": [
+        "Comp688526$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp688526"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp107561",
+    "user.name": "Comp107561$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x18c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2cc",
+    "assets": {
+      "user": [
+        "Comp107561$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp107561"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp050550",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2ec",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp050550"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a8696",
+    "winlog.logon.type_description": "Network",
+    "winlog.logon.auth_package": "Kerberos",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a8696"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a86bc",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a86bc"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a86bc",
+    "winlog.logon.type_description": "Network",
+    "winlog.logon.auth_package": "Kerberos",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a86bc"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8976",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8976"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a86cb",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a86cb"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp093220",
+    "user.name": "Comp093220$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1434",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2c8",
+    "assets": {
+      "user": [
+        "Comp093220$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp093220"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4634,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8976",
+    "winlog.logon.type_description": "Network",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8976"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4648,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x2847f68",
+    "process.name": "Proc746489.exe",
+    "process.pid": "0x17e0",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x2847f68"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "Proc746489.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp943564",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2a8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp943564"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a8b33",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a8b33"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a8b33",
+    "winlog.logon.type_description": "Network",
+    "winlog.logon.auth_package": "Kerberos",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a8b33"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4634,
+    "host.name": "Comp661433",
+    "user.name": "Comp939275$",
+    "user.domain": "Domain001",
+    "user.id": "0x23a8b33",
+    "winlog.logon.type_description": "Network",
+    "assets": {
+      "user": [
+        "Comp939275$",
+        "Domain001",
+        "0x23a8b33"
+      ],
+      "host": [
+        "Comp661433"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp943564",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp943564"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp210121",
+    "user.name": "Comp210121$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "taskeng.exe",
+    "process.pid": "0x830",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x458",
+    "assets": {
+      "user": [
+        "Comp210121$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp210121"
+      ],
+      "process": [
+        "taskeng.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp409783",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x31c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp409783"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp409783",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp409783"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp678858",
+    "user.name": "Comp678858$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x674",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2cc",
+    "assets": {
+      "user": [
+        "Comp678858$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp678858"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp227284",
+    "user.name": "Comp227284$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1654",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x328",
+    "assets": {
+      "user": [
+        "Comp227284$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp227284"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp596078",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2cc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp596078"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp761076",
+    "user.name": "Comp761076$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xa80",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x294",
+    "assets": {
+      "user": [
+        "Comp761076$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp761076"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp596078",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp596078"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp740576",
+    "user.name": "Comp740576$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1520",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x37c",
+    "assets": {
+      "user": [
+        "Comp740576$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp740576"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8d9f",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8d9f"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp386851",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x138",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp386851"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4634,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8d9f",
+    "winlog.logon.type_description": "Network",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8d9f"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp386851",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp386851"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4648,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x2847f68",
+    "process.name": "Proc746489.exe",
+    "process.pid": "0x17e0",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x2847f68"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "Proc746489.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp265702",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2b0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp265702"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8dca",
+    "process.name": "Proc746489.exe",
+    "process.pid": "0x17e0",
+    "winlog.logon.type_description": "Network",
+    "winlog.logon.auth_package": "Kerberos",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8dca"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "Proc746489.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp265702",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp265702"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8dca",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8dca"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4634,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x8ce8dca",
+    "winlog.logon.type_description": "Network",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x8ce8dca"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4648,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "AppService",
+    "user.domain": "Domain001",
+    "user.id": "0x2847f68",
+    "process.name": "Proc746489.exe",
+    "process.pid": "0x17e0",
+    "assets": {
+      "user": [
+        "AppService",
+        "Domain001",
+        "0x2847f68"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "Proc746489.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp783317",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2c8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp783317"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp916004",
+    "user.name": "Comp916004$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "cscript.exe",
+    "process.pid": "0x4874",
+    "process.parent.name": "Proc950869",
+    "process.parent.pid": "0x42a8",
+    "assets": {
+      "user": [
+        "Comp916004$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp916004"
+      ],
+      "process": [
+        "cscript.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp762185",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x250",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp762185"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp762185",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp762185"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp783317",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp783317"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp202642",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2c8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp202642"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp466209",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x354",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp466209"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "EnterpriseAppServer$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "conhost.exe",
+    "process.pid": "0x1bc8",
+    "process.parent.name": "csrss",
+    "process.parent.pid": "0x1dc",
+    "assets": {
+      "user": [
+        "EnterpriseAppServer$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "conhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp729048",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2fc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp729048"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp039658",
+    "user.name": "Comp039658$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x17cc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x254",
+    "assets": {
+      "user": [
+        "Comp039658$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp039658"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp729048",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp729048"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp309102",
+    "user.name": "Comp309102$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1064",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2c8",
+    "assets": {
+      "user": [
+        "Comp309102$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp309102"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp558886",
+    "user.name": "Comp558886$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x2bf0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x34c",
+    "assets": {
+      "user": [
+        "Comp558886$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558886"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp678037",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x260",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp678037"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp678037",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp678037"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp469659",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x33c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp469659"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp469659",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp469659"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp937188",
+    "user.name": "Comp937188$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1954",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x354",
+    "assets": {
+      "user": [
+        "Comp937188$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp937188"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp974663",
+    "user.name": "Comp974663$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1f6c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x384",
+    "assets": {
+      "user": [
+        "Comp974663$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp974663"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp076041",
+    "user.name": "Comp076041$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1750",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2a0",
+    "assets": {
+      "user": [
+        "Comp076041$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp076041"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp110463",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2d0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp110463"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp110463",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp110463"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp933545",
+    "user.name": "Comp933545$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1f74",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ec",
+    "assets": {
+      "user": [
+        "Comp933545$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp933545"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp041478",
+    "user.name": "Comp041478$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1ea8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x318",
+    "assets": {
+      "user": [
+        "Comp041478$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp041478"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp933545",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2ec",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp933545"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp933545",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp933545"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp622613",
+    "user.name": "User690713",
+    "user.domain": "Domain001",
+    "user.id": "0x1cf940",
+    "process.name": "Proc087528.exe",
+    "process.pid": "0x11c0",
+    "process.parent.name": "Proc853937",
+    "process.parent.pid": "0x328",
+    "assets": {
+      "user": [
+        "User690713",
+        "Domain001",
+        "0x1cf940"
+      ],
+      "host": [
+        "Comp622613"
+      ],
+      "process": [
+        "Proc087528.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp994673",
+    "user.name": "Comp994673$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x828",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x290",
+    "assets": {
+      "user": [
+        "Comp994673$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp994673"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp041478",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x318",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp041478"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp041478",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp041478"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp622613",
+    "user.name": "Comp622613$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "conhost.exe",
+    "process.pid": "0x71c",
+    "process.parent.name": "csrss",
+    "process.parent.pid": "0x304",
+    "assets": {
+      "user": [
+        "Comp622613$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp622613"
+      ],
+      "process": [
+        "conhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp111669",
+    "user.name": "Comp111669$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x46c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x29c",
+    "assets": {
+      "user": [
+        "Comp111669$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp111669"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp502718",
+    "user.name": "Comp502718$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1e74",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x3d8",
+    "assets": {
+      "user": [
+        "Comp502718$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp502718"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp768342",
+    "user.name": "Comp768342$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xae8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x298",
+    "assets": {
+      "user": [
+        "Comp768342$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp768342"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp507971",
+    "user.name": "Comp507971$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xccc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ec",
+    "assets": {
+      "user": [
+        "Comp507971$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp507971"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp771373",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp771373"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp963947",
+    "user.name": "User122362",
+    "user.domain": "Domain001",
+    "user.id": "0x145085",
+    "process.name": "Proc086713.exe",
+    "process.pid": "0x24c8",
+    "process.parent.name": "taskeng",
+    "process.parent.pid": "0x1c0c",
+    "assets": {
+      "user": [
+        "User122362",
+        "Domain001",
+        "0x145085"
+      ],
+      "host": [
+        "Comp963947"
+      ],
+      "process": [
+        "Proc086713.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp466209",
+    "user.name": "Comp466209$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x30ec",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x354",
+    "assets": {
+      "user": [
+        "Comp466209$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp466209"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp558886",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x34c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558886"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp558886",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558886"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp937188",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x354",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp937188"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp937188",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp937188"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp076041",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2a0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp076041"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp502718",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x3d8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp502718"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp502718",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp502718"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp984300",
+    "user.name": "Comp984300$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1950",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d8",
+    "assets": {
+      "user": [
+        "Comp984300$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp984300"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp988712",
+    "user.name": "Comp988712$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x500",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x298",
+    "assets": {
+      "user": [
+        "Comp988712$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp988712"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp241347",
+    "user.name": "Comp241347$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1a94",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x308",
+    "assets": {
+      "user": [
+        "Comp241347$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp241347"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp008061",
+    "user.name": "Comp008061$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1e58",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2a4",
+    "assets": {
+      "user": [
+        "Comp008061$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp008061"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp076041",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp076041"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp359839",
+    "user.name": "Comp359839$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1014",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e8",
+    "assets": {
+      "user": [
+        "Comp359839$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp359839"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp595448",
+    "user.name": "Comp595448$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xa20",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x388",
+    "assets": {
+      "user": [
+        "Comp595448$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp595448"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp359839",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp359839"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp270469",
+    "user.name": "Comp270469$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x26d0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d8",
+    "assets": {
+      "user": [
+        "Comp270469$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp270469"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp359839",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp359839"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp009032",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x248",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp009032"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp076406",
+    "user.name": "Comp076406$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x10fc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2c0",
+    "assets": {
+      "user": [
+        "Comp076406$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp076406"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp941347",
+    "user.name": "Comp941347$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x2194",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x300",
+    "assets": {
+      "user": [
+        "Comp941347$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp941347"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp009032",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp009032"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp984300",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2d8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp984300"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp984300",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp984300"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp556987",
+    "user.name": "Comp556987$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x22e4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e4",
+    "assets": {
+      "user": [
+        "Comp556987$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp556987"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp126822",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x274",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp126822"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp241347",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x308",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp241347"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp126822",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp126822"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp241347",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp241347"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp707961",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp707961"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp046152",
+    "user.name": "Comp046152$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x2818",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e0",
+    "assets": {
+      "user": [
+        "Comp046152$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp046152"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp729048",
+    "user.name": "Comp729048$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x24a0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2fc",
+    "assets": {
+      "user": [
+        "Comp729048$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp729048"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp963947",
+    "user.name": "Comp963947$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "conhost.exe",
+    "process.pid": "0x1f74",
+    "process.parent.name": "csrss",
+    "process.parent.pid": "0x290",
+    "assets": {
+      "user": [
+        "Comp963947$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp963947"
+      ],
+      "process": [
+        "conhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp963947",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2cc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp963947"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp963947",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp963947"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp704352",
+    "user.name": "Comp704352$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x36cc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x118",
+    "assets": {
+      "user": [
+        "Comp704352$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp704352"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp449448",
+    "user.name": "Comp449448$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1d00",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2c0",
+    "assets": {
+      "user": [
+        "Comp449448$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp449448"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp169703",
+    "user.name": "Comp169703$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x17f8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x30c",
+    "assets": {
+      "user": [
+        "Comp169703$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp169703"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp152656",
+    "user.name": "Comp152656$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1bc0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x250",
+    "assets": {
+      "user": [
+        "Comp152656$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp152656"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp176333",
+    "user.name": "Comp176333$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xd48",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x300",
+    "assets": {
+      "user": [
+        "Comp176333$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp176333"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp591089",
+    "user.name": "Comp591089$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x7c8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x32c",
+    "assets": {
+      "user": [
+        "Comp591089$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp591089"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp831353",
+    "user.name": "Comp831353$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0xa98",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x364",
+    "assets": {
+      "user": [
+        "Comp831353$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp831353"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp953155",
+    "user.name": "Comp953155$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x4c0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x274",
+    "assets": {
+      "user": [
+        "Comp953155$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp953155"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp953155",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x274",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp953155"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp953155",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp953155"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp152656",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x250",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp152656"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp152656",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp152656"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp169703",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x30c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp169703"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp169703",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp169703"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp591089",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x32c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp591089"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp192039",
+    "user.name": "Comp192039$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x508",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2a4",
+    "assets": {
+      "user": [
+        "Comp192039$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp192039"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp591089",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp591089"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp848115",
+    "user.name": "Comp848115$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1768",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b8",
+    "assets": {
+      "user": [
+        "Comp848115$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp848115"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp935667",
+    "user.name": "Comp935667$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1a9c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x29c",
+    "assets": {
+      "user": [
+        "Comp935667$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp935667"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp176333",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp176333"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp176333",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x300",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp176333"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp831353",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x364",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp831353"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp831353",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp831353"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp734923",
+    "user.name": "Comp734923$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1a58",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e4",
+    "assets": {
+      "user": [
+        "Comp734923$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp734923"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp737439",
+    "user.name": "Comp737439$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xa8c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x30c",
+    "assets": {
+      "user": [
+        "Comp737439$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp737439"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp890444",
+    "user.name": "Comp890444$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1f20",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2f0",
+    "assets": {
+      "user": [
+        "Comp890444$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp890444"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp890444",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2f0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp890444"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp890444",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp890444"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp734923",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp734923"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp848115",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2b8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp848115"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp734923",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp734923"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp848115",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp848115"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp318981",
+    "user.name": "Comp318981$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1ea8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e0",
+    "assets": {
+      "user": [
+        "Comp318981$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp318981"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp705852",
+    "user.name": "Comp705852$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "searchfilterhost.exe",
+    "process.pid": "0x468",
+    "process.parent.name": "Proc443607",
+    "process.parent.pid": "0x694",
+    "assets": {
+      "user": [
+        "Comp705852$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp705852"
+      ],
+      "process": [
+        "searchfilterhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp852067",
+    "user.name": "Comp852067$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xe8c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2bc",
+    "assets": {
+      "user": [
+        "Comp852067$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp852067"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp852067",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2bc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp852067"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp852067",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp852067"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp318981",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp318981"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp704352",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x118",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp704352"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp704352",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp704352"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp737439",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x30c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp737439"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp737439",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp737439"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp935667",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x29c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp935667"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp935667",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp935667"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp556987",
+    "user.name": "Comp556987$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0x1a7c",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x36c",
+    "assets": {
+      "user": [
+        "Comp556987$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp556987"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp556987",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp556987"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp556987",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp556987"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp970142",
+    "user.name": "Comp970142$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x2bec",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e0",
+    "assets": {
+      "user": [
+        "Comp970142$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp970142"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp318981",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp318981"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp680679",
+    "user.name": "Comp680679$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0x1e94",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x330",
+    "assets": {
+      "user": [
+        "Comp680679$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp680679"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp034574",
+    "user.name": "Comp034574$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x50c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x258",
+    "assets": {
+      "user": [
+        "Comp034574$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp034574"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp126822",
+    "user.name": "Comp126822$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x2204",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x274",
+    "assets": {
+      "user": [
+        "Comp126822$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp126822"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp330638",
+    "user.name": "Comp330638$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1e20",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x284",
+    "assets": {
+      "user": [
+        "Comp330638$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp330638"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp034574",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x258",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp034574"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp970142",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp970142"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp034574",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp034574"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp857293",
+    "user.name": "Comp857293$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0x6bc",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x36c",
+    "assets": {
+      "user": [
+        "Comp857293$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp857293"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp970142",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp970142"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp650259",
+    "user.name": "Comp650259$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x2058",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x300",
+    "assets": {
+      "user": [
+        "Comp650259$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp650259"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp657427",
+    "user.name": "Comp657427$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1dd4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ac",
+    "assets": {
+      "user": [
+        "Comp657427$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp657427"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp152656",
+    "user.name": "Comp152656$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1a38",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x250",
+    "assets": {
+      "user": [
+        "Comp152656$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp152656"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp598457",
+    "user.name": "Comp598457$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1aa8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b4",
+    "assets": {
+      "user": [
+        "Comp598457$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp598457"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp905377",
+    "user.name": "Comp905377$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1f3c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d0",
+    "assets": {
+      "user": [
+        "Comp905377$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp905377"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp640838",
+    "user.name": "Comp640838$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0x2264",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2f4",
+    "assets": {
+      "user": [
+        "Comp640838$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp640838"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp330638",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x284",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp330638"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp330638",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp330638"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp110463",
+    "user.name": "Comp110463$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xb08",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d0",
+    "assets": {
+      "user": [
+        "Comp110463$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp110463"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp558886",
+    "user.name": "Comp558886$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x2abc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x34c",
+    "assets": {
+      "user": [
+        "Comp558886$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558886"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp326648",
+    "user.name": "Comp326648$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x2cc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d0",
+    "assets": {
+      "user": [
+        "Comp326648$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp326648"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp640838",
+    "user.name": "Comp640838$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0x1040",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2f4",
+    "assets": {
+      "user": [
+        "Comp640838$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp640838"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp905377",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2d0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp905377"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp598457",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2b4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp598457"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp598457",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp598457"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp857293",
+    "user.name": "Comp857293$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0x554",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x36c",
+    "assets": {
+      "user": [
+        "Comp857293$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp857293"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp937188",
+    "user.name": "Comp937188$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x20f4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x354",
+    "assets": {
+      "user": [
+        "Comp937188$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp937188"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp905377",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp905377"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp548054",
+    "user.name": "Comp548054$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0xdac",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x37c",
+    "assets": {
+      "user": [
+        "Comp548054$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp548054"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp178241",
+    "user.name": "Comp178241$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x2038",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ec",
+    "assets": {
+      "user": [
+        "Comp178241$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp178241"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp178241",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2ec",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp178241"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp480084",
+    "user.name": "Comp480084$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1288",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x294",
+    "assets": {
+      "user": [
+        "Comp480084$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp480084"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp657427",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2ac",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp657427"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp657427",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp657427"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp480084",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x294",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp480084"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp033855",
+    "user.name": "Comp033855$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x159c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x278",
+    "assets": {
+      "user": [
+        "Comp033855$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp033855"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp480084",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp480084"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp963947",
+    "user.name": "Comp963947$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x2590",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2cc",
+    "assets": {
+      "user": [
+        "Comp963947$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp963947"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp508009",
+    "user.name": "Comp508009$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x730",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x29c",
+    "assets": {
+      "user": [
+        "Comp508009$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp508009"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp831353",
+    "user.name": "Comp831353$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x528",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x364",
+    "assets": {
+      "user": [
+        "Comp831353$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp831353"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp916004",
+    "user.name": "Comp916004$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "cscript.exe",
+    "process.pid": "0x11e0",
+    "process.parent.name": "Proc950869",
+    "process.parent.pid": "0xe84",
+    "assets": {
+      "user": [
+        "Comp916004$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp916004"
+      ],
+      "process": [
+        "cscript.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp482438",
+    "user.name": "Comp482438$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0xd84",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2a0",
+    "assets": {
+      "user": [
+        "Comp482438$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp482438"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp508009",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x29c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp508009"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp508009",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp508009"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp111669",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x29c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp111669"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp650259",
+    "user.name": "Comp650259$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "searchprotocolhost.exe",
+    "process.pid": "0x2690",
+    "process.parent.name": "Proc443607",
+    "process.parent.pid": "0x1140",
+    "assets": {
+      "user": [
+        "Comp650259$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp650259"
+      ],
+      "process": [
+        "searchprotocolhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp178241",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp178241"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp906368",
+    "user.name": "Comp906368$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x5f8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x28c",
+    "assets": {
+      "user": [
+        "Comp906368$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp906368"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp982884",
+    "user.name": "Comp982884$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1e08",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2f4",
+    "assets": {
+      "user": [
+        "Comp982884$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp982884"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp734923",
+    "user.name": "Comp734923$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xfa0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e4",
+    "assets": {
+      "user": [
+        "Comp734923$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp734923"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp982884",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2f4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp982884"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp982884",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp982884"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp334881",
+    "user.name": "Comp334881$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0xfec",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2dc",
+    "assets": {
+      "user": [
+        "Comp334881$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp334881"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp736339",
+    "user.name": "Comp736339$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x55c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e4",
+    "assets": {
+      "user": [
+        "Comp736339$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp736339"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp482438",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2a0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp482438"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp482438",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp482438"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp906368",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x28c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp906368"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp906368",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp906368"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp558428",
+    "user.name": "Comp558428$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x13d0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2f8",
+    "assets": {
+      "user": [
+        "Comp558428$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558428"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp965437",
+    "user.name": "Comp965437$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1154",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d4",
+    "assets": {
+      "user": [
+        "Comp965437$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp965437"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp848115",
+    "user.name": "Comp848115$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x147c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b8",
+    "assets": {
+      "user": [
+        "Comp848115$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp848115"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp622613",
+    "user.name": "Comp622613$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1e80",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x338",
+    "assets": {
+      "user": [
+        "Comp622613$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp622613"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp968335",
+    "user.name": "Comp968335$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1940",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ec",
+    "assets": {
+      "user": [
+        "Comp968335$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp968335"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp920962",
+    "user.name": "Comp920962$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x10e0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x298",
+    "assets": {
+      "user": [
+        "Comp920962$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp920962"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp920962",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x298",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp920962"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp920962",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp920962"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp965437",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2d4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp965437"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp965437",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp965437"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp736339",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp736339"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp736339",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp736339"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp622613",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x338",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp622613"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp855764",
+    "user.name": "Comp855764$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1fb4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2cc",
+    "assets": {
+      "user": [
+        "Comp855764$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp855764"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp622613",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp622613"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp606731",
+    "user.name": "Comp606731$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x450",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b4",
+    "assets": {
+      "user": [
+        "Comp606731$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp606731"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp606731",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2b4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp606731"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp606731",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp606731"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp905377",
+    "user.name": "Comp905377$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1ae4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d0",
+    "assets": {
+      "user": [
+        "Comp905377$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp905377"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp968335",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2ec",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp968335"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp968335",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp968335"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp034574",
+    "user.name": "Comp034574$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x870",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x258",
+    "assets": {
+      "user": [
+        "Comp034574$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp034574"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp488154",
+    "user.name": "Comp488154$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1dc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2a0",
+    "assets": {
+      "user": [
+        "Comp488154$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp488154"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp875419",
+    "user.name": "Comp875419$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x310c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x158",
+    "assets": {
+      "user": [
+        "Comp875419$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp875419"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp169703",
+    "user.name": "Comp169703$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x4ec",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x30c",
+    "assets": {
+      "user": [
+        "Comp169703$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp169703"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp334881",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2dc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp334881"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp334881",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp334881"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp488154",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2a0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp488154"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp488154",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp488154"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp184764",
+    "user.name": "Comp184764$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xe90",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d4",
+    "assets": {
+      "user": [
+        "Comp184764$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp184764"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp184764",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2d4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp184764"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp184764",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp184764"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp178241",
+    "user.name": "Comp178241$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1ca4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ec",
+    "assets": {
+      "user": [
+        "Comp178241$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp178241"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp769014",
+    "user.name": "Comp769014$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0xd35c",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2f8",
+    "assets": {
+      "user": [
+        "Comp769014$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp769014"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp369060",
+    "user.name": "Comp369060$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1758",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b8",
+    "assets": {
+      "user": [
+        "Comp369060$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp369060"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp970142",
+    "user.name": "Comp970142$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x1824",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e0",
+    "assets": {
+      "user": [
+        "Comp970142$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp970142"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp855764",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2cc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp855764"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp855764",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp855764"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp202529",
+    "user.name": "Comp202529$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0xb40",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2b4",
+    "assets": {
+      "user": [
+        "Comp202529$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp202529"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp875419",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x158",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp875419"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp875419",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp875419"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp855953",
+    "user.name": "Comp855953$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1b58",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e8",
+    "assets": {
+      "user": [
+        "Comp855953$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp855953"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp111669",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp111669"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp192039",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2a4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp192039"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp192039",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp192039"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp855953",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp855953"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp650259",
+    "user.name": "Comp650259$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "searchfilterhost.exe",
+    "process.pid": "0x2204",
+    "process.parent.name": "Proc443607",
+    "process.parent.pid": "0x1140",
+    "assets": {
+      "user": [
+        "Comp650259$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp650259"
+      ],
+      "process": [
+        "searchfilterhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp855953",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp855953"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp558428",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2f8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558428"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp558428",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp558428"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp598457",
+    "user.name": "Comp598457$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x5ec",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2b4",
+    "assets": {
+      "user": [
+        "Comp598457$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp598457"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp544524",
+    "user.name": "Comp544524$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1940",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2f4",
+    "assets": {
+      "user": [
+        "Comp544524$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp544524"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp490180",
+    "user.name": "Comp490180$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0xaac",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x318",
+    "assets": {
+      "user": [
+        "Comp490180$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp490180"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp563140",
+    "user.name": "Comp563140$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x4e0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x27c",
+    "assets": {
+      "user": [
+        "Comp563140$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp563140"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp885815",
+    "user.name": "Comp885815$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "searchprotocolhost.exe",
+    "process.pid": "0x1bb8",
+    "process.parent.name": "Proc443607",
+    "process.parent.pid": "0x1888",
+    "assets": {
+      "user": [
+        "Comp885815$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp885815"
+      ],
+      "process": [
+        "searchprotocolhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp924691",
+    "user.name": "Comp924691$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x4024",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x3b8",
+    "assets": {
+      "user": [
+        "Comp924691$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp924691"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp563140",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x27c",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp563140"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp563140",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp563140"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp924691",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x3b8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp924691"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp924691",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp924691"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp650259",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x300",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp650259"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp650259",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp650259"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp544524",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2f4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp544524"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp916004",
+    "user.name": "Comp916004$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "cscript.exe",
+    "process.pid": "0x1910",
+    "process.parent.name": "Proc950869",
+    "process.parent.pid": "0xe84",
+    "assets": {
+      "user": [
+        "Comp916004$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp916004"
+      ],
+      "process": [
+        "cscript.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp916004",
+    "user.name": "Comp916004$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "cscript.exe",
+    "process.pid": "0xf0",
+    "process.parent.name": "Proc950869",
+    "process.parent.pid": "0xe84",
+    "assets": {
+      "user": [
+        "Comp916004$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp916004"
+      ],
+      "process": [
+        "cscript.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp544524",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp544524"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp916004",
+    "user.name": "Comp916004$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "conhost.exe",
+    "process.pid": "0x198c",
+    "process.parent.name": "csrss",
+    "process.parent.pid": "0x190",
+    "assets": {
+      "user": [
+        "Comp916004$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp916004"
+      ],
+      "process": [
+        "conhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp202529",
+    "user.name": "Comp202529$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0xbcc",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2b4",
+    "assets": {
+      "user": [
+        "Comp202529$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp202529"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp369060",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2b8",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp369060"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp369060",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp369060"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp490180",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x318",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp490180"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp490180",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp490180"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp482438",
+    "user.name": "Comp482438$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x318",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2a0",
+    "assets": {
+      "user": [
+        "Comp482438$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp482438"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp030608",
+    "user.name": "Comp030608$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x25a4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2c0",
+    "assets": {
+      "user": [
+        "Comp030608$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp030608"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp657427",
+    "user.name": "Comp657427$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x20a8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2ac",
+    "assets": {
+      "user": [
+        "Comp657427$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp657427"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp334881",
+    "user.name": "Comp334881$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0x22c8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2dc",
+    "assets": {
+      "user": [
+        "Comp334881$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp334881"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp426269",
+    "user.name": "Comp426269$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xc4c",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2bc",
+    "assets": {
+      "user": [
+        "Comp426269$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp426269"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp426269",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2bc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp426269"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp426269",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp426269"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp091926",
+    "user.name": "Comp091926$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "taskeng.exe",
+    "process.pid": "0x2c38",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x4a4",
+    "assets": {
+      "user": [
+        "Comp091926$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp091926"
+      ],
+      "process": [
+        "taskeng.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp100309",
+    "user.name": "Comp100309$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x36a0",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2fc",
+    "assets": {
+      "user": [
+        "Comp100309$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp100309"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp100309",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2fc",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp100309"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp885815",
+    "user.name": "Comp885815$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "searchfilterhost.exe",
+    "process.pid": "0x1b30",
+    "process.parent.name": "Proc443607",
+    "process.parent.pid": "0x1888",
+    "assets": {
+      "user": [
+        "Comp885815$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp885815"
+      ],
+      "process": [
+        "searchfilterhost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp965437",
+    "user.name": "Comp965437$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xcbc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d4",
+    "assets": {
+      "user": [
+        "Comp965437$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp965437"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp736339",
+    "user.name": "Comp736339$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "svchost.exe",
+    "process.pid": "0xfcc",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e4",
+    "assets": {
+      "user": [
+        "Comp736339$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp736339"
+      ],
+      "process": [
+        "svchost.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp145101",
+    "user.name": "Comp145101$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x12e8",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2e4",
+    "assets": {
+      "user": [
+        "Comp145101$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp145101"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp145101",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2e4",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp145101"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp100309",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp100309"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp371667",
+    "user.name": "Comp371667$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1f98",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2d4",
+    "assets": {
+      "user": [
+        "Comp371667$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp371667"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4624,
+    "host.name": "Comp030608",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "process.name": "services.exe",
+    "process.pid": "0x2c0",
+    "winlog.logon.type_description": "Service",
+    "winlog.logon.auth_package": "Negotiate",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp030608"
+      ],
+      "process": [
+        "services.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4672,
+    "host.name": "Comp030608",
+    "user.name": "system",
+    "user.domain": "nt authority",
+    "user.id": "0x3e7",
+    "assets": {
+      "user": [
+        "system",
+        "nt authority",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp030608"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp825721",
+    "user.name": "Comp825721$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "Proc859463.exe",
+    "process.pid": "0x3018",
+    "process.parent.name": "Proc354359",
+    "process.parent.pid": "0x580",
+    "assets": {
+      "user": [
+        "Comp825721$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp825721"
+      ],
+      "process": [
+        "Proc859463.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp475874",
+    "user.name": "Comp475874$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x39f4",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2f0",
+    "assets": {
+      "user": [
+        "Comp475874$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp475874"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp059707",
+    "user.name": "Comp059707$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0xd38",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x2cc",
+    "assets": {
+      "user": [
+        "Comp059707$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp059707"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "EnterpriseAppServer$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0xed4",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2b0",
+    "assets": {
+      "user": [
+        "EnterpriseAppServer$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "EnterpriseAppServer",
+    "user.name": "EnterpriseAppServer$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "wmiprvse.exe",
+    "process.pid": "0xd10",
+    "process.parent.name": "svchost",
+    "process.parent.pid": "0x2b0",
+    "assets": {
+      "user": [
+        "EnterpriseAppServer$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "EnterpriseAppServer"
+      ],
+      "process": [
+        "wmiprvse.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp621372",
+    "user.name": "Comp621372$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "rundll32.exe",
+    "process.pid": "0x1d24",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x25c",
+    "assets": {
+      "user": [
+        "Comp621372$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp621372"
+      ],
+      "process": [
+        "rundll32.exe"
+      ]
+    }
+  },
+  {
+    "@timestamp": 1,
+    "event.code": 4688,
+    "host.name": "Comp620526",
+    "user.name": "Comp620526$",
+    "user.domain": "Domain001",
+    "user.id": "0x3e7",
+    "process.name": "vssvc.exe",
+    "process.pid": "0x1984",
+    "process.parent.name": "services",
+    "process.parent.pid": "0x284",
+    "assets": {
+      "user": [
+        "Comp620526$",
+        "Domain001",
+        "0x3e7"
+      ],
+      "host": [
+        "Comp620526"
+      ],
+      "process": [
+        "vssvc.exe"
+      ]
+    }
+  }
+]

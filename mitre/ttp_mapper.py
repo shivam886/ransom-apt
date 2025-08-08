@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 from typing import List, Dict
-from mitre_loader import extract_all_from_folder
+from mitre.mitre_loader import extract_all_from_folder
 
 MITRE_DATA_DIR = "data/mitre_cti/processed"
 

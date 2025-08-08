@@ -65,8 +65,8 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="Load and extract MITRE ATT&CK data.")
-    parser.add_argument("--input", type=str, default="data/mitre", help="Folder containing MITRE JSON files")
-    parser.add_argument("--output", type=str, default="data/mitre/processed", help="Folder to save extracted files")
+    parser.add_argument("--input", type=str, default="data/mitre_cti", help="Folder containing MITRE JSON files")
+    parser.add_argument("--output", type=str, default="data/mitre_cti/processed", help="Folder to save extracted files")
 
     args = parser.parse_args()
 
