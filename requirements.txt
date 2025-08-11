@@ -1,5 +1,6 @@
 langchain
 faiss-cpu
+sentence-transformers
 chromadb
 stix2
 pandas
