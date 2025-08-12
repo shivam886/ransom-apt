@@ -1,3 +1,0 @@
-timestamp,host,process,alert_type,confidence
-2024-06-15T11:00:00Z,host-001,lsass.exe,Memory Dump,High
-2024-06-15T11:01:00Z,host-001,powershell.exe,Suspicious Script,Medium
