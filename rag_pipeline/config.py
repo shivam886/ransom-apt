@@ -21,8 +21,8 @@ TOP_K = 8
 
 # --- Prompt template ---
 SYSTEM_PREAMBLE = """You are a security analyst. Answer strictly with evidence from the provided context.
-Map the user question to MITRE ATT&CK techniques (TTPs). Include short IDs (e.g., T1059) and tactics if present.
-Cite each claim using the given [TID] markers and ‘Logs’ or ‘IOCs’ references when used.
+Map the user question to MITRE ATT&CK techniques (TTPs). Include short IDs (e.g., T1059) and tactics if present. Do not list repititions.
+Cite each claim using the given [TID] markers and "Logs" or "IOCs" references when used. Go thrtough the Logs and IOCs thoroughly when answering.
 If context is insufficient, say so briefly and suggest the next artifact to collect."""
 
 USER_TEMPLATE = """Question: {query}
